@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Limitly</string>
+    <string name="accessibility_service_description">Приложение заблокировано, иди работай</string>
+</resources>
